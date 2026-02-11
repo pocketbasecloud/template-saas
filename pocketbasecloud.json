@@ -14,8 +14,8 @@
         },
         "frontends": [
             {
-                "name": "Portal",
-                "directory": "portal"
+                "name": "frontend",
+                "directory": "frontend"
             }
         ]
     }
